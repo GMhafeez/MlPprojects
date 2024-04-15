@@ -21,4 +21,4 @@ class Custom_exception(Exception):
 #         a = 1/0
 #     except Exception as e:
 #         logging.info("divide by zero error occurred")
-#         raise Custom_exception(e,sys.exc_info())
+#         raise  
